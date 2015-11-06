@@ -1,0 +1,34 @@
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\bin\Debug\Clipboard Helper.exe.config
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\bin\Debug\Clipboard Helper.exe
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\bin\Debug\Clipboard Helper.pdb
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.csprojResolveAssemblyReference.cache
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.CustomDeleteButton.resources
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.MasterForm.resources
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.Properties.Resources.resources
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.csproj.GenerateResource.Cache
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.exe
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.pdb
+C:\Users\Andre\documents\visual studio 2012\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.SettingsForm.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\bin\Debug\Clipboard Helper.exe.config
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.exe
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.pdb
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\bin\Debug\Clipboard Helper.exe
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\bin\Debug\Clipboard Helper.pdb
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.CustomDeleteButton.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.MasterForm.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.Properties.Resources.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard_Helper.SettingsForm.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Projects\Clipboard Helper\Clipboard Helper\obj\Debug\Clipboard Helper.csproj.GenerateResource.Cache
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\bin\Debug\Clipboard Helper.exe.config
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard Helper.exe
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard Helper.pdb
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\bin\Debug\Clipboard Helper.exe
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\bin\Debug\Clipboard Helper.pdb
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard Helper.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard_Helper.CustomDeleteButton.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard_Helper.MasterForm.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard_Helper.Properties.Resources.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard_Helper.SettingsForm.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard_Helper.UpdatedListBox.resources
+C:\Users\Andre\Documents\Visual Studio 2013\Backup Files\Clipboard Helper _ backup\Clipboard Helper\obj\Debug\Clipboard Helper.csproj.GenerateResource.Cache

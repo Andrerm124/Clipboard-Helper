@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStoredData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StoredData>
+    <storedClip>http://i.pornguidemedia.com/content/14c/606/a62/thumb-1.jpg</storedClip>
+    <storedTime>2013-12-14T02:22:53.8080402+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>-35460027| -25176015</storedClip>
+    <storedTime>2013-12-14T00:46:11.0723485+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>3,376.20</storedClip>
+    <storedTime>2013-12-13T20:27:43.044175+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>https://pbs.twimg.com/media/BbXKE14CYAApFso.jpg:large</storedClip>
+    <storedTime>2013-12-13T14:34:37.1949366+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>http://www.youtube.com/watch?v=80xGkN3Fc7c</storedClip>
+    <storedTime>2013-12-13T00:36:09.9881973+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>http://www.ebay.co.uk/itm/Star-Wars-Darth-Vader-Adult-Small-Mood-Light-Black-/121233093838?pt=LH_DefaultDomain_3&amp;hash=item1c3a0e34ce</storedClip>
+    <storedTime>2013-12-12T20:31:43.0861174+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>www.ebay.co.uk/itm/Star-Wars-Darth-Vader-Adult-Small-Mood-Light-Black-/121233093838?pt=LH_DefaultDomain_3&amp;hash=item1c3a0e34ce</storedClip>
+    <storedTime>2013-12-12T20:31:43.0821159+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>STAR WARS DARTH MOOD LIGHTS</storedClip>
+    <storedTime>2013-12-12T20:30:58.1899454+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>()</storedClip>
+    <storedTime>2013-12-12T02:00:34.824786+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>static</storedClip>
+    <storedTime>2013-12-12T02:00:33.1389639+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>List</storedClip>
+    <storedTime>2013-12-12T02:00:31.7857858+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>clipboardData</storedClip>
+    <storedTime>2013-12-12T01:58:03.2532467+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>stream</storedClip>
+    <storedTime>2013-12-12T01:57:56.8404232+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>new</storedClip>
+    <storedTime>2013-12-12T01:56:46.5532568+00:00</storedTime>
+  </StoredData>
+  <StoredData>
+    <storedClip>public</storedClip>
+    <storedTime>2013-12-12T01:54:38.0021702+00:00</storedTime>
+  </StoredData>
+</ArrayOfStoredData>
